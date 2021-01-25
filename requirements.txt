@@ -1,0 +1,4 @@
+# Utils
+pyTelegramBotAPI==3.7.6
+pafy=0.5.5
+youtube-dl==2021.1.16
